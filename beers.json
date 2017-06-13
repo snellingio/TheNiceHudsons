@@ -1,737 +1,893 @@
 [
    {
+      "can":true,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Anthem Arjuna",
-      "style":"Witbier",
+      "price_usd":5,
       "size_oz":12,
-      "can":true,
-      "price_usd":5.00
+      "state":"Oklahoma",
+      "style":"Witbier"
    },
    {
+      "can":true,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Coop Horny Toad",
-      "style":"Blonde Ale",
+      "price_usd":5.5,
       "size_oz":16,
-      "can":true,
-      "price_usd":5.50
+      "state":"Oklahoma",
+      "style":"Blonde Ale"
    },
    {
+      "can":true,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Coop Native Amber",
-      "style":"Amber Ale",
+      "price_usd":5.5,
       "size_oz":16,
-      "can":true,
-      "price_usd":5.50
+      "state":"Oklahoma",
+      "style":"Amber Ale"
    },
    {
+      "can":true,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Dead Armadillo Amber",
-      "style":"Amber Ale",
+      "price_usd":5,
       "size_oz":12,
-      "can":true,
-      "price_usd":5.00
+      "state":"Oklahoma",
+      "style":"Amber Ale"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Elk Valley Nemesis",
-      "style":"Stout",
+      "price_usd":6.5,
       "size_oz":12,
-      "price_usd":6.50
+      "state":"Oklahoma",
+      "style":"Stout"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Elk Valley Pale Ale",
-      "style":"Pale Ale",
+      "price_usd":5.5,
       "size_oz":12,
-      "price_usd":5.50
+      "state":"Oklahoma",
+      "style":"Pale Ale"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Marshall Atlas IPA",
-      "style":"IPA",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":"Oklahoma",
+      "style":"IPA"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Marshall Old Pavilion Pilsner",
-      "style":"Pilsner",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":"Oklahoma",
+      "style":"Pilsner"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Marshall Sundown Wheat",
-      "style":"Wheat",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":"Oklahoma",
+      "style":"Wheat"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Mustang 66 Amber",
-      "style":"Lager",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":"Oklahoma",
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Mustang Washita Wheat",
-      "style":"Wheat",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":"Oklahoma",
+      "style":"Wheat"
    },
    {
+      "can":false,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Prairie Standard",
-      "style":"Farmhouse Ale",
+      "price_usd":6.5,
       "size_oz":12,
-      "price_usd":6.50
+      "state":"Oklahoma",
+      "style":"Farmhouse Ale"
    },
    {
+      "can":true,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Roughtail 12th Round Ale",
-      "style":"Ale",
+      "price_usd":6.5,
       "size_oz":16,
-      "can":true,
-      "price_usd":6.50
+      "state":"Oklahoma",
+      "style":"Ale"
    },
    {
+      "can":true,
       "country":"United States",
-      "state":"Oklahoma",
       "name":"Roughtail IPA",
-      "style":"IPA",
+      "price_usd":6.5,
       "size_oz":16,
-      "can":true,
-      "price_usd":6.50
-   },
-   {
-      "country":"United States",
       "state":"Oklahoma",
-      "name":"Roughtail Polar Night Stout",
-      "style":"Stout",
-      "size_oz":16,
-      "can":true,
-      "price_usd":6.50
+      "style":"IPA"
    },
    {
+      "can":true,
+      "country":"United States",
+      "name":"Roughtail Polar Night Stout",
+      "price_usd":6.5,
+      "size_oz":16,
+      "state":"Oklahoma",
+      "style":"Stout"
+   },
+   {
+      "can":false,
       "country":"United States",
       "name":"Abita Amber",
-      "style":"Amber",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Amber"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Abita Purple Haze",
-      "style":"Raspberry Lager",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Raspberry Lager"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Abita Turbo Dog",
-      "style":"Brown Ale",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Brown Ale"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Big Sky Trout Slayer",
-      "style":"Wheat Ale",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":null,
+      "style":"Wheat Ale"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Caldera IPA",
-      "style":"IPA",
+      "price_usd":5.5,
       "size_oz":12,
-      "can":true,
-      "price_usd":5.50
+      "state":null,
+      "style":"IPA"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Founders All Day IPA",
-      "style":"IPA",
+      "price_usd":4,
       "size_oz":12,
-      "can":true,
-      "price_usd":4.00
+      "state":null,
+      "style":"IPA"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Full Sail Sessions",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"United States",
-      "name":"Goose Island Honker’s Ale",
-      "style":"English Bitter",
+      "name":"Goose Island Honker\u2019s Ale",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":null,
+      "style":"English Bitter"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Goose Island IPA",
-      "style":"IPA",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":null,
+      "style":"IPA"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Great Divide Yeti",
-      "style":"Stout",
+      "price_usd":8,
       "size_oz":12,
-      "price_usd":8.00
+      "state":null,
+      "style":"Stout"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Left Hand 400 Pound Monkey",
-      "style":"IPA",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":null,
+      "style":"IPA"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Left Hand Nitro Milk Stout",
-      "style":"Stout",
+      "price_usd":5.5,
       "size_oz":12,
-      "price_usd":5.50
+      "state":null,
+      "style":"Stout"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Left Hand Sawtooth",
-      "style":"Amber Ale",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":null,
+      "style":"Amber Ale"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Leinenkugel's Shandy",
-      "style":"Shandy",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Shandy"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Leinenkugel's Sunset",
-      "style":"Wheat Witbier",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Wheat Witbier"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Old Style",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":16,
-      "can":true,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Pabst Blue Ribbon",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":16,
-      "can":true,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Rolling Rock",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":16,
-      "can":true,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Sam Adams Boston Lager",
-      "style":"Lager",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Samuel Adams Rebel",
-      "style":"IPA",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"IPA"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Sante Fe Happy Camper",
-      "style":"IPA",
+      "price_usd":5,
       "size_oz":12,
-      "can":true,
-      "price_usd":5.00
+      "state":null,
+      "style":"IPA"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Sante Fe Java Stout",
-      "style":"Stout",
+      "price_usd":5,
       "size_oz":12,
-      "can":true,
-      "price_usd":5.00
+      "state":null,
+      "style":"Stout"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Shiner Bock",
-      "style":"Bock",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Bock"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Shiner White Wing",
-      "style":"Witbier",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Witbier"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Sierra Nevada Kellerweis",
-      "style":"Hefeweizen",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Hefeweizen"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Sierra Nevada Torpedo",
-      "style":"IPA",
+      "price_usd":6,
       "size_oz":16,
-      "can":true,
-      "price_usd":6.00
+      "state":null,
+      "style":"IPA"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Tallgrass 8-Bit Pale",
-      "style":"Ale",
+      "price_usd":6,
       "size_oz":16,
-      "can":true,
-      "price_usd":6.00
+      "state":null,
+      "style":"Ale"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Tallgrass Buffalo Sweat Oatmeal",
-      "style":"Stout",
+      "price_usd":6,
       "size_oz":16,
-      "can":true,
-      "price_usd":6.00
+      "state":null,
+      "style":"Stout"
    },
    {
+      "can":true,
       "country":"United States",
       "name":"Tallgrass Velvet Rooster",
-      "style":"Tripel",
+      "price_usd":7,
       "size_oz":16,
-      "can":true,
-      "price_usd":7.00
+      "state":null,
+      "style":"Tripel"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Woodchuck Rapberry",
-      "style":"Cider",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Cider"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Woodchuck Granny Smith",
-      "style":"Cider",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Cider"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Woodchuck Pear",
-      "style":"Cider",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Cider"
    },
    {
+      "can":false,
       "country":"United States",
       "name":"Rouge Dead Guy",
-      "style":"Maibock",
+      "price_usd":6.5,
       "size_oz":12,
-      "price_usd":6.50
+      "state":null,
+      "style":"Maibock"
    },
    {
+      "can":true,
       "country":"Australia",
       "name":"Fosters",
-      "style":"Lager",
+      "price_usd":7,
       "size_oz":"25",
-      "can":true,
-      "price_usd":7.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":true,
       "country":"Austria",
       "name":"Stiegl Glodbrau",
-      "style":"Lager",
+      "price_usd":6.5,
       "size_oz":16.9,
-      "can":true,
-      "price_usd":6.50
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":true,
       "country":"Belgium",
       "name":"Blanche De Bruxelles",
-      "style":"Witbier",
+      "price_usd":6,
       "size_oz":16.9,
-      "can":true,
-      "price_usd":6.00
+      "state":null,
+      "style":"Witbier"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Chimay Blue",
-      "style":"Ale",
+      "price_usd":10,
       "size_oz":11.2,
-      "price_usd":10.00
+      "state":null,
+      "style":"Ale"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Chimay Red",
-      "style":"Dubbel",
+      "price_usd":9,
       "size_oz":11.2,
-      "price_usd":9.00
+      "state":null,
+      "style":"Dubbel"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Delirium Nocturnum",
-      "style":"Dark Ale",
+      "price_usd":8.5,
       "size_oz":11.2,
-      "price_usd":8.50
+      "state":null,
+      "style":"Dark Ale"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Delirium Tremens",
-      "style":"Pale Ale",
+      "price_usd":8.5,
       "size_oz":11.2,
-      "price_usd":8.50
+      "state":null,
+      "style":"Pale Ale"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Duvel Belgium Ale",
-      "style":"Ale",
+      "price_usd":8,
       "size_oz":11.2,
-      "price_usd":8.00
+      "state":null,
+      "style":"Ale"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Hoegaarden",
-      "style":"Witbier",
+      "price_usd":5,
       "size_oz":11.2,
-      "price_usd":5.00
+      "state":null,
+      "style":"Witbier"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Leffe Blonde",
-      "style":"Ale",
+      "price_usd":5,
       "size_oz":11.2,
-      "price_usd":5.00
+      "state":null,
+      "style":"Ale"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Leffe Brune",
-      "style":"Dark Ale",
+      "price_usd":5,
       "size_oz":11.2,
-      "price_usd":5.00
+      "state":null,
+      "style":"Dark Ale"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"Lindemans Framboise",
-      "style":"Fruit",
+      "price_usd":10,
       "size_oz":12,
-      "price_usd":10.00
+      "state":null,
+      "style":"Fruit"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"St. Bernardus Abt 12",
-      "style":"Quad",
+      "price_usd":8.5,
       "size_oz":11.2,
-      "price_usd":8.50
+      "state":null,
+      "style":"Quad"
    },
    {
+      "can":false,
       "country":"Belgium",
       "name":"St. Bernardus Tripel",
-      "style":"Tripel",
+      "price_usd":8,
       "size_oz":11.2,
-      "price_usd":8.00
+      "state":null,
+      "style":"Tripel"
    },
    {
+      "can":false,
       "country":"Canada",
       "name":"Unibroue La Fin Du Monde",
-      "style":"Tripel",
+      "price_usd":8,
       "size_oz":12,
-      "price_usd":8.00
+      "state":null,
+      "style":"Tripel"
    },
    {
+      "can":false,
       "country":"Canada",
       "name":"Unibroue Trois Pistoles",
-      "style":"Dark Ale",
+      "price_usd":8,
       "size_oz":12,
-      "price_usd":8.00
+      "state":null,
+      "style":"Dark Ale"
    },
    {
+      "can":false,
       "country":"China",
       "name":"Tsing Tao",
-      "style":"Lager",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Czech Republic",
       "name":"Czechvar",
-      "style":"Pilsner",
+      "price_usd":5,
       "size_oz":11.2,
-      "price_usd":5.00
+      "state":null,
+      "style":"Pilsner"
    },
    {
+      "can":true,
       "country":"Czech Republic",
       "name":"Pilsner Urquell",
-      "style":"Pilsner",
+      "price_usd":5,
       "size_oz":16.9,
-      "can":true,
-      "price_usd":5.00
+      "state":null,
+      "style":"Pilsner"
    },
    {
+      "can":false,
       "country":"Czech Republic",
       "name":"Staropramen",
-      "style":"Pilsner",
+      "price_usd":5.5,
       "size_oz":11.2,
-      "price_usd":5.50
+      "state":null,
+      "style":"Pilsner"
    },
    {
+      "can":false,
       "country":"Denmark",
       "name":"Carlsberg Elephant Malt",
-      "style":"Imperial Pilsner",
+      "price_usd":5.5,
       "size_oz":11.2,
-      "price_usd":5.50
+      "state":null,
+      "style":"Imperial Pilsner"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Fullers London Pride",
-      "style":"Pale Ale",
+      "price_usd":6,
       "size_oz":11.2,
-      "price_usd":6.00
+      "state":null,
+      "style":"Pale Ale"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Newcastle",
-      "style":"Brown Ale",
+      "price_usd":4.25,
       "size_oz":12,
-      "price_usd":4.25
+      "state":null,
+      "style":"Brown Ale"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Sam Smith Nut Brown",
-      "style":"Brown Ale",
+      "price_usd":7.5,
       "size_oz":12,
-      "price_usd":7.50
+      "state":null,
+      "style":"Brown Ale"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Sam Smith Oatmeal Stout",
-      "style":"Oatmeal Stout",
+      "price_usd":7.5,
       "size_oz":12,
-      "price_usd":7.50
+      "state":null,
+      "style":"Oatmeal Stout"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Sam Smith Organic Choclate",
-      "style":"Sweet Stout",
+      "price_usd":7.5,
       "size_oz":12,
-      "price_usd":7.50
+      "state":null,
+      "style":"Sweet Stout"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Sam Smith Taddy Porter",
-      "style":"Porter",
+      "price_usd":7.5,
       "size_oz":12,
-      "price_usd":7.50
+      "state":null,
+      "style":"Porter"
    },
    {
+      "can":true,
       "country":"England",
       "name":"Strongbow",
-      "style":"Cider",
+      "price_usd":6,
       "size_oz":14.9,
-      "can":true,
-      "price_usd":6.00
+      "state":null,
+      "style":"Cider"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Wells Banana Bread",
-      "style":"Fruit Ale",
+      "price_usd":7,
       "size_oz":11.2,
-      "price_usd":7.00
+      "state":null,
+      "style":"Fruit Ale"
    },
    {
+      "can":false,
       "country":"England",
       "name":"Young's Double Chocolate Stout",
-      "style":"Sweet Stout",
+      "price_usd":7,
       "size_oz":14.9,
-      "price_usd":7.00
+      "state":null,
+      "style":"Sweet Stout"
    },
    {
+      "can":false,
       "country":"Germany",
       "name":"Ayinger Brau-Weisse",
-      "style":"Hefeweizen",
+      "price_usd":7,
       "size_oz":11.2,
-      "price_usd":7.00
+      "state":null,
+      "style":"Hefeweizen"
    },
    {
+      "can":true,
       "country":"Germany",
       "name":"Kostritzer",
-      "style":"Schwartzbier",
+      "price_usd":5,
       "size_oz":16.9,
-      "can":true,
-      "price_usd":5.00
+      "state":null,
+      "style":"Schwartzbier"
    },
    {
+      "can":false,
       "country":"Germany",
       "name":"Paulaner Hefe-Weizen",
-      "style":"Hefeweizen",
+      "price_usd":5,
       "size_oz":11.2,
-      "price_usd":5.00
+      "state":null,
+      "style":"Hefeweizen"
    },
    {
+      "can":false,
       "country":"Germany",
       "name":"Warsteiner Dunkel",
-      "style":"Dunkel",
+      "price_usd":4.5,
       "size_oz":11.2,
-      "price_usd":4.50
+      "state":null,
+      "style":"Dunkel"
    },
    {
+      "can":false,
       "country":"Holland",
       "name":"Heineken",
-      "style":"Lager",
+      "price_usd":4.5,
       "size_oz":12,
-      "price_usd":4.50
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"India",
       "name":"Kingfisher",
-      "style":"Lager",
+      "price_usd":6,
       "size_oz":12,
-      "price_usd":6.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":true,
       "country":"Ireland",
       "name":"Magners Irish Cider",
-      "style":"Cider",
+      "price_usd":7,
       "size_oz":16.9,
-      "can":true,
-      "price_usd":7.00
+      "state":null,
+      "style":"Cider"
    },
    {
+      "can":false,
       "country":"Ireland",
       "name":"Murphy's Red",
-      "style":"Red Ale",
+      "price_usd":5.5,
       "size_oz":12,
-      "price_usd":5.50
+      "state":null,
+      "style":"Red Ale"
    },
    {
+      "can":false,
       "country":"Italy",
       "name":"Peroni",
-      "style":"Lager",
+      "price_usd":4.5,
       "size_oz":11.2,
-      "price_usd":4.50
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Jamaica",
       "name":"Red Stripe",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":11.2,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Jamaica",
       "name":"Royal Jamaican",
-      "style":"Ginger Beer",
+      "price_usd":6,
       "size_oz":12,
-      "price_usd":6.00
+      "state":null,
+      "style":"Ginger Beer"
    },
    {
+      "can":true,
       "country":"Japan",
       "name":"Sapporo",
-      "style":"Lager",
+      "price_usd":7,
       "size_oz":22,
-      "can":true,
-      "price_usd":7.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Mexico",
       "name":"Corona",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Mexico",
       "name":"Dos XX Lager",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Mexico",
       "name":"Modelo",
-      "style":"Lager",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Mexico",
       "name":"Negro Modelo",
-      "style":"Dark Lager",
+      "price_usd":4,
       "size_oz":12,
-      "price_usd":4.00
+      "state":null,
+      "style":"Dark Lager"
    },
    {
+      "can":true,
       "country":"Mexico",
       "name":"Tecate",
-      "style":"Lager",
+      "price_usd":4.5,
       "size_oz":16,
-      "can":true,
-      "price_usd":4.50
+      "state":null,
+      "style":"Lager"
    },
    {
+      "can":false,
       "country":"Scotland",
       "name":"Belhaven Scottish Ale",
-      "style":"Ale",
+      "price_usd":7.5,
       "size_oz":11.2,
-      "price_usd":7.50
+      "state":null,
+      "style":"Ale"
    },
    {
+      "can":false,
       "country":"Slovakia",
       "name":"Golden Pheasant",
-      "style":"Pilsner",
+      "price_usd":5.5,
       "size_oz":11.2,
-      "price_usd":5.50
+      "state":null,
+      "style":"Pilsner"
    },
    {
+      "can":false,
       "country":"Spain",
       "name":"1906 Reserva",
-      "style":"Especial",
+      "price_usd":5,
       "size_oz":12,
-      "price_usd":5.00
+      "state":null,
+      "style":"Especial"
    },
    {
+      "can":false,
       "country":"Russia",
       "name":"Baltika #7 Export Lage",
-      "style":"Lager",
+      "price_usd":7,
       "size_oz":16.9,
-      "price_usd":7.00
+      "state":null,
+      "style":"Lager"
    }
 ]
